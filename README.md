@@ -50,13 +50,12 @@
 
 ## Let's Connect
 
-- <a target="_blank" href="https://wa.me/+918320955050"><img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="35" /></a> [Portfolio Website](https://shivangraikar.github.io)
-- <a target="_blank" href="https://www.instagram.com/yogesh_joshi_0333/"><img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="35" /></a> [Email](mailto:shivangraikar@gmail.com)
-- <a target="_blank" href="https://twitter.com/joshiyogesh0333"><img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="35" /></a> [LinkedIn](https://www.linkedin.com/in/shivang-raikar/)
-- <a target="_blank" href="https://www.linkedin.com/in/yogesh-joshi-web-developer/"><img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="35" /></a> 
-- <a target="_blank" href="https://www.upwork.com/freelancers/joshiyogesh0333"><img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="35" /></a> 
-- <a target="_blank" href="mailto:joshiyogesh0333@gmail.com"><img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="35" /></a> 
-- <a target="_blank" href="https://wa.me/+918320955050"><img alt="youtube Logo" src="https://devyogesh.com/public/asset/svg/youtube.svg" height="35" /></a>
+<a target="_blank" href="https://wa.me/+918320955050"><img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="50"" /></a> 
+<a target="_blank" href="https://www.instagram.com/yogesh_joshi_0333/"><img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="50"" /></a> 
+<a target="_blank" href="https://twitter.com/joshiyogesh0333"><img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="50"" /></a> 
+<a target="_blank" href="https://www.linkedin.com/in/yogesh-joshi-web-developer/"><img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="50"" /></a> 
+<a target="_blank" href="https://www.upwork.com/freelancers/joshiyogesh0333"><img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="50"" /></a> 
+<a target="_blank" href="mailto:joshiyogesh0333@gmail.com"><img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="50"" /></a> 
 
 
 
