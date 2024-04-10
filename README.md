@@ -19,7 +19,7 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
 ![NextJs](https://img.shields.io/badge/NextJs-000000.svg?&style=plastic&logo=next.js&logoColor=white)
 
--*Backend*: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?&style=plastic&logo=laravel&logoColor=white)
+- *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?&style=plastic&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?&style=plastic&logo=wordpress&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-EE4623.svg?&style=plastic&logo=codeigniter&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?&style=plastic&logo=shopify&logoColor=white)
