@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is YogeshKumar Joshi and I'm a Full Stack Web Developer, from Bharat</h2>
-
-
 # Yogesh Joshi
 👋
 
@@ -50,13 +47,13 @@
 
 ## Let's Connect
 
-- 🌐 [Portfolio Website] (https://devyogesh.com)
-- [<img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="50" />] (https://wa.me/+918320955050)
-- [<img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="50" />] (https://www.instagram.com/yogesh_joshi_0333/)
-- [<img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="50" />] (https://twitter.com/joshiyogesh0333)
-- [<img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="50" />] (https://www.linkedin.com/in/yogesh-joshi-web-developer/)
-- [<img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="50" />] (https://www.upwork.com/freelancers/joshiyogesh0333)
-- [<img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="50" />] (mailto:joshiyogesh0333@gmail.com)
+- 🌐 (https://devyogesh.com)
+- <img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="20" /> (https://wa.me/+918320955050)
+- <img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="20" /> (https://www.instagram.com/yogesh_joshi_0333/)
+- <img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="20" /> (https://twitter.com/joshiyogesh0333)
+- <img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="20" /> (https://www.linkedin.com/in/yogesh-joshi-web-developer/)
+- <img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="20" /> (https://www.upwork.com/freelancers/joshiyogesh0333)
+- <img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="20" /> (mailto:joshiyogesh0333@gmail.com)
 
 
 ## Happy Coding!
