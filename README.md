@@ -1,60 +1,65 @@
 <h2 align="left">Hi 👋! My name is YogeshKumar Joshi and I'm a Full Stack Web Developer, from Bharat</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh-joshi-0333&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-joshi-0333&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# Yogesh Joshi
+👋
 
-###
+![Profile Banner](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
 
-<img align="right" height="150" src="https://devyogesh.com/yogeshjoshi.jpg"  />
+### Tech Stack
 
-###
-
-<div align="left">
-  <img src="https://devyogesh.com/public/asset/svg/php.svg" height="50" alt="PHP Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/laravel.svg" height="50" alt="Laravel Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/wordpress.svg" height="50" alt="WordPress Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/codeigniter.svg" height="50" alt="Codeigniter Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/shopify.svg" height="50" alt="Shopify Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/reactjs.svg" height="50" alt="React Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/nextjs.svg" height="50" alt="NextJs Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/html.svg" height="50" alt="HTML Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/css.svg" height="50" alt="CSS Logo" />
-  <img width="12" />
-  <img src="https://devyogesh.com/public/asset/svg/javascript.svg" height="50" alt="JavaScript Logo" />
-  <img width="12" />
-</div>
-
-###
+- *Languages*: 
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=plastic&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=javascript&logoColor=black)
 
 
-<div align="left">
-<a target="_blank" href="https://wa.me/+918320955050"><img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="50" /></a>
-<a target="_blank" href="https://www.instagram.com/yogesh_joshi_0333/"><img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="50" /></a>
-<a target="_blank" href="https://twitter.com/joshiyogesh0333"><img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="50" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/yogesh-joshi-web-developer/"><img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="50" /></a>
-<a target="_blank" href="https://www.upwork.com/freelancers/joshiyogesh0333"><img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="50" /></a>
-<a target="_blank" href="mailto:joshiyogesh0333@gmail.com"><img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="50" /></a>
-<a target="_blank" href="https://wa.me/+918320955050"><img alt="youtube Logo" src="https://devyogesh.com/public/asset/svg/youtube.svg" height="50" /></a>
-</div>
+- *Frontend*: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-grey?style=plastic&logo=react)
+![NextJs](https://img.shields.io/badge/NextJs-000000.svg?&style=plastic&logo=next.js&logoColor=white)
+
+-*Backend*: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?&style=plastic&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?&style=plastic&logo=wordpress&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-EE4623.svg?&style=plastic&logo=codeigniter&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?&style=plastic&logo=shopify&logoColor=white)
+
+- *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+
+
+- *Cloud*: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-green?style=plastic&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+
+- *DevOps*: Docker, CI/CD
+
+
+## What I'm Working On
+
+- 🔭 I’m currently working on building scalable web applications with Laravel and React.
+- 💬 Ask me about anything related to web development.
+
+
+## GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogesh-joshi-0333&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555)
+
+
+## Let's Connect
+
+- <a target="_blank" href="https://wa.me/+918320955050"><img alt="whatsapp Logo" src="https://devyogesh.com/public/asset/svg/whatsapp.svg" height="35" /></a> [Portfolio Website](https://shivangraikar.github.io)
+- <a target="_blank" href="https://www.instagram.com/yogesh_joshi_0333/"><img alt="instagram Logo" src="https://devyogesh.com/public/asset/svg/instagram.svg" height="35" /></a> [Email](mailto:shivangraikar@gmail.com)
+- <a target="_blank" href="https://twitter.com/joshiyogesh0333"><img alt="twitter Logo" src="https://devyogesh.com/public/asset/svg/twitter.svg" height="35" /></a> [LinkedIn](https://www.linkedin.com/in/shivang-raikar/)
+- <a target="_blank" href="https://www.linkedin.com/in/yogesh-joshi-web-developer/"><img alt="linkedin Logo" src="https://devyogesh.com/public/asset/svg/linkedin.svg" height="35" /></a> 
+- <a target="_blank" href="https://www.upwork.com/freelancers/joshiyogesh0333"><img alt="gmail Logo" src="https://devyogesh.com/public/asset/svg/gmail.svg" height="35" /></a> 
+- <a target="_blank" href="mailto:joshiyogesh0333@gmail.com"><img alt="upwork Logo" src="https://devyogesh.com/public/asset/svg/upwork.svg" height="35" /></a> 
+- <a target="_blank" href="https://wa.me/+918320955050"><img alt="youtube Logo" src="https://devyogesh.com/public/asset/svg/youtube.svg" height="35" /></a>
 
 
 
-###
+## Happy Coding!
 
-<br clear="both">
-
-
-
-###
+See you in the code verse! 😄
